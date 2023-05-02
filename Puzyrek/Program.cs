@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-int[] arr = { 5, 3, 4, 2, 1 };
+int[] arr = { 5, 3, 4, 2, 1, 9, 10, 6 };
 int len = arr.Length;
 int count = 0;
 int temp = 0;

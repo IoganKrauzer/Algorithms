@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\bin\Debug\net6.0\Choice.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\bin\Debug\net6.0\Choice.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\bin\Debug\net6.0\Choice.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\bin\Debug\net6.0\Choice.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\bin\Debug\net6.0\Choice.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\obj\Debug\net6.0\Choice.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\obj\Debug\net6.0\Choice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\obj\Debug\net6.0\Choice.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\obj\Debug\net6.0\Choice.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\obj\Debug\net6.0\Choice.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\obj\Debug\net6.0\Choice.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\obj\Debug\net6.0\refint\Choice.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\obj\Debug\net6.0\Choice.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\obj\Debug\net6.0\Choice.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice\obj\Debug\net6.0\ref\Choice.dll

@@ -1,9 +1,8 @@
 ﻿Console.Clear();
-int[] arr = { 5, 2, 9, 3, 4, 1 };
+int[] arr = { 5, 2, 9, 3, 4, 1, 7, 11, 10 };
 int len = arr.Length;
 int temp = 0;
 int sortedSize = 0;
-// int index = 1;
 
 for (int i = 0; i < len; i++)
 {
@@ -52,10 +51,6 @@ while (sortedSize < len - 1)
         continue;
     }
 }
-
-
-
-
 
 
 for (int i = 0; i < len; i++)
