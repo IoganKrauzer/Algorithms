@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\bin\Debug\net6.0\Insert.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\bin\Debug\net6.0\Insert.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\bin\Debug\net6.0\Insert.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\bin\Debug\net6.0\Insert.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\bin\Debug\net6.0\Insert.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\obj\Debug\net6.0\Insert.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\obj\Debug\net6.0\Insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\obj\Debug\net6.0\Insert.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\obj\Debug\net6.0\Insert.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\obj\Debug\net6.0\Insert.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\obj\Debug\net6.0\Insert.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\obj\Debug\net6.0\refint\Insert.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\obj\Debug\net6.0\Insert.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\obj\Debug\net6.0\Insert.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Insert\obj\Debug\net6.0\ref\Insert.dll
