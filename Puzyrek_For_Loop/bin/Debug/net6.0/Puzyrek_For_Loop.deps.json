@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Puzyrek_For_Loop/1.0.0": {
+        "runtime": {
+          "Puzyrek_For_Loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Puzyrek_For_Loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

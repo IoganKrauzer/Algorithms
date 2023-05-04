@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\obj\Debug\net6.0\Puzyrek_For_Loop.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\obj\Debug\net6.0\Puzyrek_For_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\obj\Debug\net6.0\Puzyrek_For_Loop.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\obj\Debug\net6.0\Puzyrek_For_Loop.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\obj\Debug\net6.0\Puzyrek_For_Loop.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\bin\Debug\net6.0\Puzyrek_For_Loop.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\bin\Debug\net6.0\Puzyrek_For_Loop.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\bin\Debug\net6.0\Puzyrek_For_Loop.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\bin\Debug\net6.0\Puzyrek_For_Loop.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\bin\Debug\net6.0\Puzyrek_For_Loop.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\obj\Debug\net6.0\Puzyrek_For_Loop.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\obj\Debug\net6.0\refint\Puzyrek_For_Loop.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\obj\Debug\net6.0\Puzyrek_For_Loop.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\obj\Debug\net6.0\Puzyrek_For_Loop.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Puzyrek_For_Loop\obj\Debug\net6.0\ref\Puzyrek_For_Loop.dll

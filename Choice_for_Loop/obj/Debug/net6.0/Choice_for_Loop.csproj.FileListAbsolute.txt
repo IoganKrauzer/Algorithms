@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\bin\Debug\net6.0\Choice_for_Loop.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\bin\Debug\net6.0\Choice_for_Loop.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\bin\Debug\net6.0\Choice_for_Loop.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\bin\Debug\net6.0\Choice_for_Loop.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\bin\Debug\net6.0\Choice_for_Loop.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\obj\Debug\net6.0\Choice_for_Loop.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\obj\Debug\net6.0\Choice_for_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\obj\Debug\net6.0\Choice_for_Loop.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\obj\Debug\net6.0\Choice_for_Loop.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\obj\Debug\net6.0\Choice_for_Loop.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\obj\Debug\net6.0\Choice_for_Loop.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\obj\Debug\net6.0\refint\Choice_for_Loop.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\obj\Debug\net6.0\Choice_for_Loop.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\obj\Debug\net6.0\Choice_for_Loop.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_for_Loop\obj\Debug\net6.0\ref\Choice_for_Loop.dll
