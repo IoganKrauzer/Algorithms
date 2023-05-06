@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 int[] arr = { 2, 5, 8, 3, 4, 6, 9, 7, 1 };
-int[] arr = new int[12];
+// int[] arr = new int[12];
 int len = arr.Length;
 
 
@@ -27,8 +27,6 @@ for (int sortCount = 0; sortCount < len; sortCount++)
         }
     }
 }
-
-
 for (int i = 0; i < len; i++)
 {
     Console.Write(arr[i] + "\t");
