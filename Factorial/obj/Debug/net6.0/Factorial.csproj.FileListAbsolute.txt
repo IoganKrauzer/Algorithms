@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\bin\Debug\net6.0\Factorial.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\bin\Debug\net6.0\Factorial.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\bin\Debug\net6.0\Factorial.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\bin\Debug\net6.0\Factorial.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\obj\Debug\net6.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\obj\Debug\net6.0\Factorial.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\obj\Debug\net6.0\Factorial.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Factorial\obj\Debug\net6.0\ref\Factorial.dll

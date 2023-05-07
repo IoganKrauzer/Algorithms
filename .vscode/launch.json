@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Insert_For_Loop/bin/Debug/net6.0/Insert_For_Loop.dll",
+            "program": "${workspaceFolder}/Binnary_Sort/bin/Debug/net6.0/Binnary_Sort.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Insert_For_Loop",
+            "cwd": "${workspaceFolder}/Binnary_Sort",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "integratedTerminal",
             "stopAtEntry": false

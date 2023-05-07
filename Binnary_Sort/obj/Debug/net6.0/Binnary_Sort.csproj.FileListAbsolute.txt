@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\bin\Debug\net6.0\Binnary_Sort.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\bin\Debug\net6.0\Binnary_Sort.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\bin\Debug\net6.0\Binnary_Sort.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\bin\Debug\net6.0\Binnary_Sort.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\bin\Debug\net6.0\Binnary_Sort.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\obj\Debug\net6.0\Binnary_Sort.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\obj\Debug\net6.0\Binnary_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\obj\Debug\net6.0\Binnary_Sort.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\obj\Debug\net6.0\Binnary_Sort.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\obj\Debug\net6.0\Binnary_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\obj\Debug\net6.0\Binnary_Sort.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\obj\Debug\net6.0\refint\Binnary_Sort.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\obj\Debug\net6.0\Binnary_Sort.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\obj\Debug\net6.0\Binnary_Sort.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Binnary_Sort\obj\Debug\net6.0\ref\Binnary_Sort.dll
