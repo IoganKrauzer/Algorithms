@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\bin\Debug\net6.0\Test_Binnary_game.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\bin\Debug\net6.0\Test_Binnary_game.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\bin\Debug\net6.0\Test_Binnary_game.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\bin\Debug\net6.0\Test_Binnary_game.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\bin\Debug\net6.0\Test_Binnary_game.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\obj\Debug\net6.0\Test_Binnary_game.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\obj\Debug\net6.0\Test_Binnary_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\obj\Debug\net6.0\Test_Binnary_game.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\obj\Debug\net6.0\Test_Binnary_game.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\obj\Debug\net6.0\Test_Binnary_game.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\obj\Debug\net6.0\Test_Binnary_game.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\obj\Debug\net6.0\refint\Test_Binnary_game.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\obj\Debug\net6.0\Test_Binnary_game.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\obj\Debug\net6.0\Test_Binnary_game.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Binnary_game\obj\Debug\net6.0\ref\Test_Binnary_game.dll
