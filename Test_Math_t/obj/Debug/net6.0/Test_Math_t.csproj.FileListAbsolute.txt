@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\bin\Debug\net6.0\Test_Math_t.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\bin\Debug\net6.0\Test_Math_t.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\bin\Debug\net6.0\Test_Math_t.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\bin\Debug\net6.0\Test_Math_t.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\bin\Debug\net6.0\Test_Math_t.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\obj\Debug\net6.0\Test_Math_t.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\obj\Debug\net6.0\Test_Math_t.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\obj\Debug\net6.0\Test_Math_t.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\obj\Debug\net6.0\Test_Math_t.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\obj\Debug\net6.0\Test_Math_t.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\obj\Debug\net6.0\Test_Math_t.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\obj\Debug\net6.0\refint\Test_Math_t.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\obj\Debug\net6.0\Test_Math_t.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\obj\Debug\net6.0\Test_Math_t.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Math_t\obj\Debug\net6.0\ref\Test_Math_t.dll

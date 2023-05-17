@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\obj\Debug\net6.0\Choice_from-High.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\obj\Debug\net6.0\Choice_from-High.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\obj\Debug\net6.0\Choice_from-High.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\obj\Debug\net6.0\Choice_from-High.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\obj\Debug\net6.0\Choice_from-High.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\bin\Debug\net6.0\Choice_from-High.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\bin\Debug\net6.0\Choice_from-High.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\bin\Debug\net6.0\Choice_from-High.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\bin\Debug\net6.0\Choice_from-High.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\bin\Debug\net6.0\Choice_from-High.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\obj\Debug\net6.0\Choice_from-High.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\obj\Debug\net6.0\refint\Choice_from-High.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\obj\Debug\net6.0\Choice_from-High.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\obj\Debug\net6.0\Choice_from-High.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Choice_from-High\obj\Debug\net6.0\ref\Choice_from-High.dll

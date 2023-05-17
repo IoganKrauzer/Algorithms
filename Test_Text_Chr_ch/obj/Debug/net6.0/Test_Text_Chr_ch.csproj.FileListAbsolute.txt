@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\bin\Debug\net6.0\Test_Text_Chr_ch.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\bin\Debug\net6.0\Test_Text_Chr_ch.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\bin\Debug\net6.0\Test_Text_Chr_ch.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\bin\Debug\net6.0\Test_Text_Chr_ch.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\bin\Debug\net6.0\Test_Text_Chr_ch.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\obj\Debug\net6.0\Test_Text_Chr_ch.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\obj\Debug\net6.0\Test_Text_Chr_ch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\obj\Debug\net6.0\Test_Text_Chr_ch.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\obj\Debug\net6.0\Test_Text_Chr_ch.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\obj\Debug\net6.0\Test_Text_Chr_ch.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\obj\Debug\net6.0\Test_Text_Chr_ch.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\obj\Debug\net6.0\refint\Test_Text_Chr_ch.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\obj\Debug\net6.0\Test_Text_Chr_ch.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\obj\Debug\net6.0\Test_Text_Chr_ch.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Test_Text_Chr_ch\obj\Debug\net6.0\ref\Test_Text_Chr_ch.dll
