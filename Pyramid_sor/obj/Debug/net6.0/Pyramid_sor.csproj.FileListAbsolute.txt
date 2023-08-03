@@ -1,0 +1,15 @@
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\bin\Debug\net6.0\Pyramid_sor.exe
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\bin\Debug\net6.0\Pyramid_sor.deps.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\bin\Debug\net6.0\Pyramid_sor.runtimeconfig.json
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\bin\Debug\net6.0\Pyramid_sor.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\bin\Debug\net6.0\Pyramid_sor.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\obj\Debug\net6.0\Pyramid_sor.csproj.AssemblyReference.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\obj\Debug\net6.0\Pyramid_sor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\obj\Debug\net6.0\Pyramid_sor.AssemblyInfoInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\obj\Debug\net6.0\Pyramid_sor.AssemblyInfo.cs
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\obj\Debug\net6.0\Pyramid_sor.csproj.CoreCompileInputs.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\obj\Debug\net6.0\Pyramid_sor.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\obj\Debug\net6.0\refint\Pyramid_sor.dll
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\obj\Debug\net6.0\Pyramid_sor.pdb
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\obj\Debug\net6.0\Pyramid_sor.genruntimeconfig.cache
+C:\Users\Nazariel\Desktop\Geek Brains\Algorithm_Train\Pyramid_sor\obj\Debug\net6.0\ref\Pyramid_sor.dll

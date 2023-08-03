@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Binnary_Sort/bin/Debug/net6.0/Binnary_Sort.dll",
+            "program": "${workspaceFolder}/Test_Matrix_ Pokraska/bin/Debug/net6.0/Test_Matrix_ Pokraska.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Binnary_Sort",
+            "cwd": "${workspaceFolder}/Test_Matrix_ Pokraska",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "integratedTerminal",
             "stopAtEntry": false
